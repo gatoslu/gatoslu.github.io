@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://gatoslu.github.io/"/>
-  <updated>2018-06-21T08:34:06.911Z</updated>
+  <updated>2018-07-06T08:02:07.617Z</updated>
   <id>http://gatoslu.github.io/</id>
   
   <author>
@@ -15,6 +15,48 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>星期五，周末即将到来</title>
+    <link href="http://gatoslu.github.io/2018/07/06/1/"/>
+    <id>http://gatoslu.github.io/2018/07/06/1/</id>
+    <published>2018-07-06T07:30:45.000Z</published>
+    <updated>2018-07-06T08:02:07.617Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="别人家的星期五！"><a href="#别人家的星期五！" class="headerlink" title="别人家的星期五！"></a>别人家的星期五！</h2><p>据朝日新闻报道，日本政府和日本经济团体联合会等近期发起“超值星期五”（Premium Friday）计划，鼓励企业每个月最后一个周五让员工下午3点提前下班，希望以此刺激购物、外食、旅游等多个领域的消费。该活动定于2017年2月24日开始。</p><p>为了刺激国民消费，日本政府真是挖空了心思。</p><h4 id="anyway！愉快的周末看球时间到了"><a href="#anyway！愉快的周末看球时间到了" class="headerlink" title="anyway！愉快的周末看球时间到了"></a>anyway！愉快的周末看球时间到了</h4><p><img src="https://storage7.cuntuku.com/2018/07/06/ta1eD.jpg" alt="ta1eD.jpg"></p><blockquote><p>据可靠消息最近各大天台位置很拥挤哦！  ( •̀ ω •́ )y！</p></blockquote><p><img src="https://storage1.cuntuku.com/2018/07/07/tatTV.jpg" alt="tatTV.jpg"></p><blockquote><p>高考的，炒股的弟兄们占满了天台！</p></blockquote>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;别人家的星期五！&quot;&gt;&lt;a href=&quot;#别人家的星期五！&quot; class=&quot;headerlink&quot; title=&quot;别人家的星期五！&quot;&gt;&lt;/a&gt;别人家的星期五！&lt;/h2&gt;&lt;p&gt;据朝日新闻报道，日本政府和日本经济团体联合会等近期发起“超值星期五”（Premium Fri
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://gatoslu.github.io/2018/07/06/hello-world/"/>
+    <id>http://gatoslu.github.io/2018/07/06/hello-world/</id>
+    <published>2018-07-06T07:28:06.520Z</published>
+    <updated>2018-06-19T07:18:56.120Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>夏至已到</title>
@@ -42,29 +84,17 @@
     <link href="http://gatoslu.github.io/2018/06/20/1/"/>
     <id>http://gatoslu.github.io/2018/06/20/1/</id>
     <published>2018-06-20T07:12:40.000Z</published>
-    <updated>2018-06-20T07:12:40.348Z</updated>
+    <updated>2018-06-22T00:32:16.390Z</updated>
     
-    <summary type="html">
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="http://gatoslu.github.io/2018/06/19/hello-world/"/>
-    <id>http://gatoslu.github.io/2018/06/19/hello-world/</id>
-    <published>2018-06-19T07:18:56.120Z</published>
-    <updated>2018-06-19T07:18:56.120Z</updated>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<p>First post by hexo!</p><p><img src="https://storage3.cuntuku.com/2016/02/13/giphy.gif" alt="giphy.gif"></p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+        &lt;p&gt;First post by hexo!&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://storage3.cuntuku.com/2016/02/13/giphy.gif&quot; alt=&quot;giphy.gif&quot;&gt;&lt;/p&gt;
+
       
     
     </summary>
